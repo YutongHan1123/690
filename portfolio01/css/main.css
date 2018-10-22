@@ -13,11 +13,13 @@
 .kim-header{
 
 }
-
+.alert alert-secondary{
+  padding-left: 16px;
+}
 .bg-light{
   background aqua !important;
 }
 
 .media{
-  font-size: 12px; 
+  font-size: 12px;
 }
